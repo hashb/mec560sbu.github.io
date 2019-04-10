@@ -3,7 +3,7 @@ title: MEC 560's home page
 email: 
 description: "Course material for MEC 560: Advanced Control Systems taught at Stony Brook University by Dr. Vivek Yadav"
 baseurl: "https://blog.chenna.me/mec560sbu.github.io"
-url: "http://blog.chenna.me"
+url: "http://blog.chenna.me/mec560sbu.github.io"
 github_username:  vxy10
 
 # Build settings
